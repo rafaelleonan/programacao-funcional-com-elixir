@@ -4,7 +4,7 @@
 
 1 - Instale o Elixir de acordo com o seu S.O seguindo a [documentação oficial](https://elixir-lang.org/install.html).
 
-2 - Após instalar o Elixir, clone o projeto e acesse o diretório `elixir_programacao_funcional/friends_app`
+2 - Após instalar o Elixir, clone o projeto e acesse o diretório `/friends_app`
 
 3 - No diretório acima, execute o comando abaixo para instalar as dependências:
 
