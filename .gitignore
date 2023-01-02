@@ -1,0 +1,28 @@
+# The directory Mix will write compiled artifacts to.
+friends_app/_build/
+
+# If you run "mix test --cover", coverage assets end up here.
+friends_app/cover/
+
+# The directory Mix downloads your dependencies sources to.
+friends_app/deps/
+
+# Where third-party dependencies like ExDoc output generated docs.
+friends_app/doc/
+
+# Ignore .fetch files in case you like to edit your project deps locally.
+friends_app/.fetch
+
+# If the VM crashes, it generates a dump, let's ignore it too.
+friends_app/erl_crash.dump
+
+friends_app/mix.lock
+friends_app/friends.csv
+
+# Also ignore archive artifacts (built via "mix archive.build").
+friends_app/*.ez
+
+# Ignore package tarball (built via "mix hex.build").
+friends_app/friends_app-*.tar
+
+.idea

@@ -1,0 +1,2 @@
+# elixirc
+IO.puts("Hello!!!")
