@@ -1,4 +1,4 @@
-# Curso de Programação Funciona com Elixir - Udemy
+# Curso de Programação Funcional com Elixir - Udemy
 
 1 - Aulas com os fundamentos do paradigma funcional e a linguagem `Elixir`.
 ```text
